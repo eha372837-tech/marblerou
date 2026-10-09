@@ -1,0 +1,116 @@
+Uri: https://lazygyu.github.io/roulette/
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\index.htm
+Content Type: text/html
+
+Uri: https://lazygyu.github.io/roulette/android-icon-192x192.6c0734fc.png
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\android-icon-192x192.6c0734fc.png
+Content Type: image/png
+
+Uri: https://lazygyu.github.io/roulette/apple-icon-114x114.6cefcd75.png
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\apple-icon-114x114.6cefcd75.png
+Content Type: image/png
+
+Uri: https://lazygyu.github.io/roulette/apple-icon-120x120.462d8e84.png
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\apple-icon-120x120.462d8e84.png
+Content Type: image/png
+
+Uri: https://lazygyu.github.io/roulette/apple-icon-144x144.36ef70f8.png
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\apple-icon-144x144.36ef70f8.png
+Content Type: image/png
+
+Uri: https://lazygyu.github.io/roulette/apple-icon-152x152.1f1d2b56.png
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\apple-icon-152x152.1f1d2b56.png
+Content Type: image/png
+
+Uri: https://lazygyu.github.io/roulette/apple-icon-180x180.33666671.png
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\apple-icon-180x180.33666671.png
+Content Type: image/png
+
+Uri: https://lazygyu.github.io/roulette/apple-icon-57x57.5ecd1650.png
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\apple-icon-57x57.5ecd1650.png
+Content Type: image/png
+
+Uri: https://lazygyu.github.io/roulette/apple-icon-60x60.b46a75af.png
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\apple-icon-60x60.b46a75af.png
+Content Type: image/png
+
+Uri: https://lazygyu.github.io/roulette/apple-icon-72x72.4726ed35.png
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\apple-icon-72x72.4726ed35.png
+Content Type: image/png
+
+Uri: https://lazygyu.github.io/roulette/apple-icon-76x76.72dbc1e1.png
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\apple-icon-76x76.72dbc1e1.png
+Content Type: image/png
+
+Uri: https://lazygyu.github.io/roulette/assets/manifest.webmanifest
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\assets\manifest.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://lazygyu.github.io/roulette/bomb.455f9b17.svg
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\bomb.455f9b17.svg
+Content Type: image/svg+xml
+
+Uri: https://lazygyu.github.io/roulette/check.7e390469.svg
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\check.7e390469.svg
+Content Type: image/svg+xml
+
+Uri: https://lazygyu.github.io/roulette/favicon-16x16.b88a3ef4.png
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\favicon-16x16.b88a3ef4.png
+Content Type: image/png
+
+Uri: https://lazygyu.github.io/roulette/favicon-32x32.b3414860.png
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\favicon-32x32.b3414860.png
+Content Type: image/png
+
+Uri: https://lazygyu.github.io/roulette/favicon-96x96.b086bd80.png
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\favicon-96x96.b086bd80.png
+Content Type: image/png
+
+Uri: https://lazygyu.github.io/roulette/map.eb357c03.svg
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\map.eb357c03.svg
+Content Type: image/svg+xml
+
+Uri: https://lazygyu.github.io/roulette/megaphone.da49dfc8.svg
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\megaphone.da49dfc8.svg
+Content Type: image/svg+xml
+
+Uri: https://lazygyu.github.io/roulette/moon.3f475bd2.svg
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\moon.3f475bd2.svg
+Content Type: image/svg+xml
+
+Uri: https://lazygyu.github.io/roulette/play.d2b98249.svg
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\play.d2b98249.svg
+Content Type: image/svg+xml
+
+Uri: https://lazygyu.github.io/roulette/record.c71c4728.svg
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\record.c71c4728.svg
+Content Type: image/svg+xml
+
+Uri: https://lazygyu.github.io/roulette/roulette.1991a7cb.js
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\roulette.1991a7cb.js
+Content Type: application/javascript
+
+Uri: https://lazygyu.github.io/roulette/roulette.d098d37b.css
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\roulette.d098d37b.css
+Content Type: text/css
+
+Uri: https://lazygyu.github.io/roulette/shop.14569b1e.svg
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\shop.14569b1e.svg
+Content Type: image/svg+xml
+
+Uri: https://lazygyu.github.io/roulette/shuffle.e9e498cf.svg
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\shuffle.e9e498cf.svg
+Content Type: image/svg+xml
+
+Uri: https://lazygyu.github.io/roulette/sun.ab6ec46d.svg
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\sun.ab6ec46d.svg
+Content Type: image/svg+xml
+
+Uri: https://lazygyu.github.io/roulette/trophy.50d1ba0a.svg
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\roulette\trophy.50d1ba0a.svg
+Content Type: image/svg+xml
+
+Uri: https://umami.lazygyu.net/script.js
+File Name: C:\Downloaded Web Sites\lazygyu.github.io\script.js
+Content Type: application/javascript
+
